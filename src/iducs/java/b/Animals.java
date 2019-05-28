@@ -1,8 +1,8 @@
 package iducs.java.b;
 
 public interface Animals {
-	String species = "µ¿¹°"; // public final
-	String common = "°øÅëÁ¡"; // public final
+	String species = "ë™ë¬¼"; // public final
+	String common = "ê³µí†µì "; // public final
 	void move(); // public abstract
 	void eat();
 	void sound();
